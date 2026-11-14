@@ -28,6 +28,6 @@ The row:
   anything else. A plugin by the list's maintainer says so in its description.
 
 Anyone can report a plugin on the list's issue page, which each row's Report button opens. A plugin that breaks these
-rules is taken off the list. Removing it from the list does not remove it from anyone's computer. If a plugin on the
+rules may be taken off the list. Removing it from the list does not remove it from anyone's computer. If a plugin on the
 list infringes your copyright or other rights, write to the address for copyright complaints in Leonote's LICENSE
 (section 10), naming the plugin, the work concerned and how to contact you.
